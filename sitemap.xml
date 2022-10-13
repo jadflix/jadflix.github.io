@@ -179,6 +179,13 @@
     
     
         <url>
+            <loc>/strangerthings/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-10-12</lastmod>
+        </url>
+    
+        <url>
             <loc>/fifth/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>

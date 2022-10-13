@@ -5,9 +5,21 @@
     <description>Jadflix - the center of Jaden&apos;s Latin HW.  Based on the Jekflix template.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Oct 2022 20:49:56 -0400</pubDate>
-    <lastBuildDate>Wed, 12 Oct 2022 20:49:56 -0400</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2022 21:19:48 -0400</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2022 21:19:48 -0400</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Peregriniores Res</title>
+        <description>&lt;p&gt;Fratres Duffer ferunt tibi Peregriniores Res
+&lt;img src=&quot;/assets/img/strangerthings.png&quot; alt=&quot;Stranger Things&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Oct 2022 13:04:18 -0400</pubDate>
+        <link>/strangerthings/</link>
+        <guid isPermaLink="true">/strangerthings/</guid>
+        
+        <category>Eutropius</category>
+      </item>
     
       <item>
         <title>Quote 5 - Section IDK</title>
