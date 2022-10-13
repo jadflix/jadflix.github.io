@@ -1,27 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jekflix | A blog theme for Jekyll</title>
-    <description>Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.</description>
+    <title>Jadflix</title>
+    <description>Jadflix - the center of Jaden&apos;s Latin HW.  Based on the Jekflix template.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Oct 2022 20:03:27 -0400</pubDate>
-    <lastBuildDate>Wed, 12 Oct 2022 20:03:27 -0400</lastBuildDate>
+    <pubDate>Wed, 12 Oct 2022 20:49:56 -0400</pubDate>
+    <lastBuildDate>Wed, 12 Oct 2022 20:49:56 -0400</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title>Sample Post</title>
-        <description>&lt;p&gt;hola&lt;/p&gt;
+        <title>Quote 5 - Section IDK</title>
+        <description>&lt;p&gt;this quote blah blah blah and that&lt;/p&gt;
 </description>
-        <pubDate>Fri, 10 Sep 2010 08:26:40 -0400</pubDate>
-        <link>/birds-can-fly-but-this-you-knew-already/</link>
-        <guid isPermaLink="true">/birds-can-fly-but-this-you-knew-already/</guid>
+        <pubDate>Wed, 12 Oct 2022 12:36:58 -0400</pubDate>
+        <link>/fifth/</link>
+        <guid isPermaLink="true">/fifth/</guid>
         
-        <category>life</category>
+        <category>Eutropius</category>
+      </item>
+    
+      <item>
+        <title>Quote 4 - Section D</title>
+        <description>&lt;p&gt;this quote blah blah blah and that&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Oct 2022 12:35:39 -0400</pubDate>
+        <link>/fourth/</link>
+        <guid isPermaLink="true">/fourth/</guid>
         
-        <category>tips</category>
+        <category>Eutropius</category>
+      </item>
+    
+      <item>
+        <title>Quote 3 - Section C</title>
+        <description>&lt;p&gt;this quote blah blah blah and that&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Oct 2022 12:34:09 -0400</pubDate>
+        <link>/third/</link>
+        <guid isPermaLink="true">/third/</guid>
         
-        <category>life</category>
+        <category>Eutropius</category>
+      </item>
+    
+      <item>
+        <title>Quote 2 - Section B</title>
+        <description>&lt;p&gt;this quote blah blah blah and that&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Oct 2022 12:32:21 -0400</pubDate>
+        <link>/second/</link>
+        <guid isPermaLink="true">/second/</guid>
+        
+        <category>Eutropius</category>
+      </item>
+    
+      <item>
+        <title>Quote 1 - Section A</title>
+        <description>&lt;p&gt;this quote blah blah blah and that&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Oct 2022 12:27:40 -0400</pubDate>
+        <link>/first/</link>
+        <guid isPermaLink="true">/first/</guid>
+        
+        <category>Eutropius</category>
       </item>
     
   </channel>

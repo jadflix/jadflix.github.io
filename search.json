@@ -3,11 +3,43 @@
   
   
     {
-      "title"    : "Sample Post",
-      "tags"     : "life and tips",
-      "categories" : "life",
-      "url"      : "/birds-can-fly-but-this-you-knew-already/",
-      "date"     : "09/10/2010"
+      "title"    : "Quote 5 - Section IDK",
+      "tags"     : "",
+      "categories" : "Eutropius",
+      "url"      : "/fifth/",
+      "date"     : "10/12/2022"
+    } ,
+  
+    {
+      "title"    : "Quote 4 - Section D",
+      "tags"     : "",
+      "categories" : "Eutropius",
+      "url"      : "/fourth/",
+      "date"     : "10/12/2022"
+    } ,
+  
+    {
+      "title"    : "Quote 3 - Section C",
+      "tags"     : "",
+      "categories" : "Eutropius",
+      "url"      : "/third/",
+      "date"     : "10/12/2022"
+    } ,
+  
+    {
+      "title"    : "Quote 2 - Section B",
+      "tags"     : "",
+      "categories" : "Eutropius",
+      "url"      : "/second/",
+      "date"     : "10/12/2022"
+    } ,
+  
+    {
+      "title"    : "Quote 1 - Section A",
+      "tags"     : "",
+      "categories" : "Eutropius",
+      "url"      : "/first/",
+      "date"     : "10/12/2022"
     } 
   
 ]
