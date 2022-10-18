@@ -5,9 +5,21 @@
     <description>Jadflix - the center of Jaden&apos;s Latin HW.  Based on the Jekflix template.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Oct 2022 22:30:18 -0400</pubDate>
-    <lastBuildDate>Mon, 17 Oct 2022 22:30:18 -0400</lastBuildDate>
+    <pubDate>Mon, 17 Oct 2022 22:54:31 -0400</pubDate>
+    <lastBuildDate>Mon, 17 Oct 2022 22:54:31 -0400</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Frangens Malum</title>
+        <description>&lt;p&gt;Jadflix ferunt tibi Frangens Malum
+&lt;img src=&quot;/assets/img/breakingbad.png&quot; alt=&quot;Breaking Bad&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Oct 2022 13:04:18 -0400</pubDate>
+        <link>/breakingbad/</link>
+        <guid isPermaLink="true">/breakingbad/</guid>
+        
+        <category>Eutropius</category>
+      </item>
     
       <item>
         <title>Peregriniores Res</title>
@@ -23,7 +35,7 @@
     
       <item>
         <title>Quote 5 - Section A</title>
-        <description>&lt;p&gt;In the quote “Ab Antōniō, alterō cōnsule, Catilīna ipse victus proeliō est interfectus.” Eutropius shows the justice meted out to those who go against Rome. The section starts with a description of Cataline and his intentions against Rome, but in just a few sentences, Cataline’s supporters are executed and Cataline himself is defeated and killed. This short separation between treason and death gives the reader a strong motivation for loyalty to Rome and an idea of the justice that is inevitably given to those who act against Rome, which was important given Emperor Valens’ paranoia for his enemies (and consequently...</description>
+        <description>&lt;p&gt;In the quote “Ab Antōniō, alterō cōnsule, Catilīna ipse victus proeliō est interfectus.” Eutropius gives an example of the justice meted out to those who go against Rome. The section starts with a description of Cataline and his intentions against Rome, but after just a few sentences, Cataline’s supporters are executed and Cataline himself is defeated and killed. This short separation between treason and death gives the reader a strong motivation for loyalty to Rome and an idea of the fate that lies for those who are against Rome. This was important given Emperor Valens’ paranoia against his enemies (and...</description>
         <pubDate>Wed, 12 Oct 2022 12:36:58 -0400</pubDate>
         <link>/fifth/</link>
         <guid isPermaLink="true">/fifth/</guid>
