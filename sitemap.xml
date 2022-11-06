@@ -179,6 +179,83 @@
     
     
         <url>
+            <loc>/eutropius_timeline_summary/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-11-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>/eutropius_timeline_10/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-11-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>/eutropius_timeline_9/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-11-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>/eutropius_timeline_8/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-11-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>/eutropius_timeline_7/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-11-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>/eutropius_timeline_6/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-11-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>/eutropius_timeline_5/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-11-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>/eutropius_timeline_4/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-11-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>/eutropius_timeline_3/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-11-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>/eutropius_timeline_2/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-11-01</lastmod>
+        </url>
+    
+        <url>
+            <loc>/eutropius_timeline_1/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-11-01</lastmod>
+        </url>
+    
+        <url>
             <loc>/breakingbad/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
