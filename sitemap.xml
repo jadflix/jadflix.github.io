@@ -179,6 +179,41 @@
     
     
         <url>
+            <loc>/rhetorical_devices/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-12-05</lastmod>
+        </url>
+    
+        <url>
+            <loc>/repetition/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-12-05</lastmod>
+        </url>
+    
+        <url>
+            <loc>/personal_pronouns/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-12-05</lastmod>
+        </url>
+    
+        <url>
+            <loc>/parallelism/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-12-05</lastmod>
+        </url>
+    
+        <url>
+            <loc>/diction/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2022-12-05</lastmod>
+        </url>
+    
+        <url>
             <loc>/eutropius_timeline_summary/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
